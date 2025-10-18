@@ -1,5 +1,4 @@
 scikit-learn
 pandas
-xboost
 seaborn
 matplotlib
